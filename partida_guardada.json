@@ -1,0 +1,46 @@
+{
+    "jugador": {
+        "nombre": "juan",
+        "vida": 100,
+        "puntaje": 250,
+        "nivel": 1,
+        "activo": true
+    },
+    "inventario": [
+        {
+            "codigo": 102,
+            "titulo": "Índice General de Secciones",
+            "sala": "Estanterías",
+            "valor": 80
+        },
+        {
+            "codigo": 101,
+            "titulo": "Manual del Archivo",
+            "sala": "Vestíbulo",
+            "valor": 40
+        },
+        {
+            "codigo": 103,
+            "titulo": "Plano Antiguo de la Galería",
+            "sala": "Mapas",
+            "valor": 60,
+            "posicion": [
+                3,
+                12
+            ]
+        },
+        {
+            "codigo": 104,
+            "titulo": "Ficha de Registro Histórico",
+            "sala": "Fichas",
+            "valor": 90
+        },
+        {
+            "codigo": 105,
+            "titulo": "Sello de Autenticación",
+            "sala": "Sellos",
+            "valor": 95
+        }
+    ],
+    "sala_actual": 6
+}
